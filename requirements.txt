@@ -1,0 +1,5 @@
+Flask==2.2.2
+kubernetes==25.3.0
+kafka-python>=2.0.2
+pymongo==4.3.3
+psutil
